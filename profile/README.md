@@ -26,9 +26,9 @@ Desenvolvemos soluções completas em tecnologia:
 ### Paleta de Cores
 | Cor | Hex | Uso |
 |-----|-----|-----|
-| ![#18C2B2](https://via.placeholder.com/15/18C2B2/000000?text=+) Azul-Esverdeado | `#18C2B2` | Primária (destaques) |
-| ![#0B1225](https://via.placeholder.com/15/0B1225/000000?text=+) Azul-Marinho | `#0B1225` | Fundos |
-| ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) Branco | `#FFFFFF` | Textos |
+| ![#18C2B2](https://img.shields.io/badge/Azul_Esverdeado-18C2B2) | `#18C2B2` | Primária (destaques) |
+| ![#0B1225](https://img.shields.io/badge/Azul_Marinho-0B1225) | `#0B1225` | Fundos |
+| ![#FFFFFF](https://img.shields.io/badge/Branco-FFFFFF) | `#FFFFFF` | Textos |
 
 ### Tipografia
 - **Títulos**: `Sora` (Moderno e legível)
