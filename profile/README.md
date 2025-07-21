@@ -1,6 +1,6 @@
 # **Avorati** - Brand Repository
 
-![Avorati Logo Placeholder](https://avatars.githubusercontent.com/u/206777209?s=200&v=4) *(Logo placeholder - replace with actual logo)*
+![Avorati Logo Placeholder](https://avatars.githubusercontent.com/u/206777209?s=200&v=4)
 
 ## 🌟 Sobre a Avorati
 **Avorati** é uma empresa de tecnologia que combina modernidade, inovação e acessibilidade. Nosso propósito é desenvolver soluções digitais de alta qualidade enquanto promovemos o crescimento de profissionais e empresas através de ferramentas práticas e conteúdo educacional.
